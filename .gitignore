@@ -1,0 +1,10 @@
+
+*.bat
+
+main\.cpe
+
+*.EXE
+
+main\.sym
+
+mem\.map
